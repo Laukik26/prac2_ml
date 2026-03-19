@@ -1,0 +1,6 @@
+venv/
+data/
+models/
+logs/
+_pycache_/
+**/desktop.ini
